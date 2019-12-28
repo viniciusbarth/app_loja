@@ -1,6 +1,6 @@
 # app_teste
 
-A new Flutter application.
+uma aplicação em flutter para fins de aprendizado
 
 ## Getting Started
 
